@@ -1,0 +1,11 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "private": true,
+  "keywords": [
+    "graphql"
+  ],
+  "devDependencies": {
+    "graphql": "^0.12.3"
+  }
+}
