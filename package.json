@@ -1,0 +1,16 @@
+{
+  "name": "flete",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "cca-scripts": "1.6.2"
+  },
+  "scripts": {
+    "deploy": "cca-scripts deploy",
+    "destroy": "cca-scripts destroy",
+    "eject": "cca-scripts eject",
+    "template": "cca-scripts template",
+    "export-api": "cca-scripts export-api",
+    "get-client-config": "cca-scripts get-client-config"
+  }
+}
