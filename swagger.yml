@@ -16,7 +16,11 @@ produces:
   - application/json
 
 paths:
-  /graphql:
+  /posts:
     get:
-      description: graphql handler
-      operationId: graphql-handler
+      description: posts handler
+      operationId: posts-handler
+  /webhook:
+    post:
+      description: webhook handler
+      operationId: webhook-handler
