@@ -1,0 +1,11 @@
+{
+  "name": "webhook",
+  "version": "1.2.14",
+  "private": true,
+  "keywords": [
+    "webhook"
+  ],
+  "devDependencies": {
+    "dynamodb-marshaler": "^2.0.0"
+  }
+}
